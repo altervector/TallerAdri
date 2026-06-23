@@ -28,6 +28,7 @@
 
     --radi:          6px;
     --amplada-max:   100%;
+    
 }
 
 /* ─── RESET ───────────────────────────────────────────────── */
@@ -39,7 +40,7 @@
 
 html {
     /* Fons que llisca darrere — textura fosca */
-    background-image: url("https://avsets.pages.dev/images/agora/background-agora.jpg");
+    background-image: url("https://avsets.pages.dev/images/talleradri/background-talleradri.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
