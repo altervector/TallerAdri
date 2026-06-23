@@ -6,7 +6,7 @@
 (function() {
     if (typeof CONFIG === 'undefined') return;
 
-    // 1. SEGURETAT
+/*    // 1. SEGURETAT
     if (CONFIG.SITIOS_SEGUROS && CONFIG.SITIOS_SEGUROS.length > 0) {
         const esSitioSeguro = CONFIG.SITIOS_SEGUROS.some(s =>
             window.location.hostname.includes(s));
@@ -15,7 +15,7 @@
             if (CONFIG.URL_OFICIAL) window.location.href = CONFIG.URL_OFICIAL;
             return;
         }
-    }
+    }*/
 
     const now  = new Date().getTime();
     const base = CONFIG.BASE_URL;
