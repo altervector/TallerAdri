@@ -27,7 +27,7 @@ const CONFIG = {
     URL_RESSENYES:  "https://www.google.com/maps/search/?api=1&query=Taller+Adri+Terrassa",
 
     // 3. IMATGES (placeholders fins que hi hagi fotos reals)
-    LOGO:           "logo/logoAGtrans.png",         // ← canviar pel logo real
+    
     HERO_BG:        "images/agora/hero-agora.png",  // ← canviar per foto taller/moto
     BACKGROUND:     "images/agora/background-agora.jpg", // ← canviar per textura/fons
 
