@@ -10,6 +10,12 @@
     font-weight: 700;
     font-style: normal;
 }
+@font-face {
+    font-family: 'airstrikebyllet';
+    src: url('https://avsets.pages.dev/fonts/airstrikebullet.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
 
 /* ─── VARIABLES ───────────────────────────────────────────── */
 :root {
@@ -24,6 +30,7 @@
     --blanc-transp:  rgba(255,255,255,0.12);
 
     --font-titol:    'airstrikechrome', sans-serif;
+    --font-titol2:    'airstrikebullet', sans-serif;
     --font-cos:      'Segoe UI', Roboto, sans-serif;
 
     --radi:          6px;
@@ -265,7 +272,7 @@ a:hover { text-decoration: underline; }
 }
 
 .stat-numero {
-    font-family: var(--font-titol);
+    font-family: var(--font-titol2);
     font-size: 2rem;
     font-weight: 800;
     color: var(--taronja);
@@ -347,7 +354,7 @@ a:hover { text-decoration: underline; }
 }
 
 .servei-titol {
-    font-family: var(--font-titol);
+    font-family: var(--font-titol2);
     font-size: 0.95rem;
     color: var(--blanc);
     margin-bottom: 8px;
