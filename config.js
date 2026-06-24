@@ -37,8 +37,8 @@ const CONFIG = {
     QR:              "qr/qr-adrimotors.png",
 
     // 4. TEXTOS
-    HERO_BOTO_PRI:        "📞 Truca'ns ara",
-    HERO_BOTO_SEC:        "Els nostres serveis eis",
+    HERO_BOTO_PRI:        "📞 Truca'ns",
+    HERO_BOTO_SEC:        "Els nostres serveis",
 
     ANYS_EXPERIENCIA: "15",
     MOTOS_REPARADES:  "2.000",
