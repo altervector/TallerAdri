@@ -13,7 +13,7 @@ const CONFIG = {
     MOBIL:          "600 000 000",
     EMAIL:          "adrimotors@altervector.com",
     ADRECA:         "Carrer de la Mecànica, 42, 08220 Terrassa, Barcelona",
-    INSTAGRAM:      "https://www.instagram.com/adrimotors",
+    INSTAGRAM:      "https://www.instagram.com/adri__motors",
     FACEBOOK:       "https://www.facebook.com/adrimotors",
     EMAIL_SUPORT:   "suport@altervector.com",
 
