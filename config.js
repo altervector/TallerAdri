@@ -7,8 +7,8 @@ const CONFIG = {
 
     // 1. NEGOCI
     NOM:            "Adri Motors",
-    LOGO:           "logo/logoAMtrans.png",
-                                        LOGO_T:         "logo/logoAMRtrans.png",
+    LOGO:           "logo/logoAMR.png",
+    LOGO_T:         "logo/logoAMRtrans.png",
     SLOGAN:         "Especialistes en motos. Sabadell.",
     TELEFON:        "93 000 00 00",
     MOBIL:          "600 000 000",
@@ -20,7 +20,7 @@ const CONFIG = {
     EMAIL_SUPORT:   "suport@altervector.com",
 
     // 2. RUTES
-    REPO_URL:       "https://altervector.github.io/adrimotors/",
+    REPO_URL:       "https://altervector.github.io/amrmotorbike/",
     BASE_URL:       "./",
     BASE_WORKER:    "",
     URL_OFICIAL:    "",
