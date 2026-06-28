@@ -13,9 +13,9 @@ const CONFIG = {
     TELEFON:        "93 000 00 00",
     MOBIL:          "600 000 000",
     WHATSAPP:       "https://wa.me/34600000000",
-    EMAIL:          "armmotorbike@altervector.com",
+    EMAIL:          "amrmotorbike@altervector.com",
     ADRECA:         "Carrer de la Mecànica, 42, 08220 Terrassa, Barcelona",
-    INSTAGRAM:      "https://www.instagram.com/armmotorbike",
+    INSTAGRAM:      "https://www.instagram.com/amrmotorbike",
     FACEBOOK:       "",
     EMAIL_SUPORT:   "suport@altervector.com",
 
@@ -30,13 +30,13 @@ const CONFIG = {
 
     // 3. IMATGES 
     BACKGROUND:      "", // ← canviar en el css .html{}
-    BLOC_HERO:       "images/armmotorbike/hero-armmotorbike.jpg", 
+    BLOC_HERO:       "images/amrmotorbike/hero-amrmotorbike.jpg", 
     
     BLOC1:           "",
     BLOC2:           "",
     BLOC3:           "",
     BLOC4:           "",
-    QR:              "qr/qr-armmotorbike.png",
+    QR:              "qr/qr-amrmotorbike.png",
 
     // 4. TEXTOS
     HERO_BOTO_PRI:      "📞 Truca'ns",

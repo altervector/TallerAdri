@@ -48,7 +48,11 @@
 
 html {
     /* Fons que llisca darrere — textura fosca */
-    background-image: url("https://avsets.pages.dev/images/armmotorbike/background-armmotorbike.jpg");
+    background-image: url("https://avsets.pages.dev/images/
+amrmotorbike
+/background-
+amrmotorbike
+.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
