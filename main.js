@@ -54,7 +54,8 @@
         logo.addEventListener('touchend',   aturarPress);
         logo.addEventListener('contextmenu', (e) => e.preventDefault());
 
-                        /*<h1 class="hero-titol">${CONFIG.NOM}</h1>
+                        /*<span class="hero-eyebrow">Taller de Motocicletes</span>
+                        <h1 class="hero-titol">${CONFIG.NOM}</h1>
                         <p class="hero-slogan">${CONFIG.SLOGAN}</p>*/
         /* ── 2. HERO ───────────────────────────────────────── */
         const hero = document.getElementById('hero');
@@ -66,7 +67,7 @@
                         alt="${CONFIG.NOM}">
                     <div class="hero-overlay"></div>
                     <div class="hero-contingut">
-                        <span class="hero-eyebrow">Taller de Motocicletes</span>
+                        
                             <img src="${CONFIG.ASSETS}${CONFIG.LOGO_T}" alt="${CONFIG.NOM}">
                         <div class="hero-botons">
                             <a href="tel:${CONFIG.TELEFON}" class="hero-boto-principal">
