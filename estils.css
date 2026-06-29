@@ -55,6 +55,7 @@ html {
     /* Overlay fosc per sobre la imatge de fons */
     background-color: #0f0f0f;
     min-height: 100%;
+     scroll-behavior: smooth;
 }
 
 body {
