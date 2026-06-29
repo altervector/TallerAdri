@@ -352,7 +352,19 @@ a:hover { text-decoration: underline; }
 }
 
 .servei-card {
-    background: var(--negre-card);
+
+    backdrop-filter: blur(8px);
+    background: linear-gradient(
+        135deg,
+        rgba(255, 255, 255, 0.15) 0%,
+        rgba(255, 255, 255, 0.05) 100%
+    );
+     /*border: 1px solid rgba(255, 255, 255, 0.2);    xxx
+   border-radius: 14px;*/
+
+
+
+    /*background: var(--negre-card);*/
     border: 1px solid rgba(255,255,255,0.06);
     border-left: 3px solid var(--taronja);
     padding: 20px 18px;
